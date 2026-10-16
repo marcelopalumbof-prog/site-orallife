@@ -1,0 +1,79 @@
+FOTOS DA CLÍNICA ORAL LIFE
+==========================
+
+✅ AS FOTOS REAIS JÁ ESTÃO NO SITE.
+Total: 7 fotos + 1 imagem de banco, ~1,4 MB — peso adequado para web.
+
+
+ONDE CADA FOTO APARECE
+----------------------
+
+  ARQUIVO                     ONDE APARECE NO SITE
+  --------------------------  ---------------------------------------------
+  hero-consultorio.jpg        Topo do site (hero) — consultório odontológico
+                              moderno. ⚠️ Esta é a ÚNICA imagem de banco
+                              (placeholder) ainda em uso. Quando quiser
+                              usar uma foto real da clínica aqui, salve uma
+                              foto horizontal (mín. 1920px) com este nome.
+  agendar-consultorio.jpg     Seção "Como agendar" (imagem grande) — sala de
+                              atendimento com o logo na parede.
+  etapa-avaliacao.jpg         Etapa 1 · Avaliação — consultório com cadeira
+                              e equipamentos.
+  etapa-diagnostico.jpg        Etapa 2 · Diagnóstico — procedimento
+                              odontológico em andamento.
+  etapa-plano.jpg              Etapa 3 · Plano personalizado — dentista
+                              explicando o plano à paciente.
+  sorriso-paciente.jpg        Seção "O que dizem no Google" — paciente
+                              sorrindo.
+  cta-paciente.jpg            Bloco final "Pronto para cuidar do seu
+                              sorriso?" (foto de fundo) — paciente saindo
+                              sorrindo após a consulta.
+  convenios-recepcao.jpg      Seção "Convênios" — recepção da clínica.
+  favicon.svg                 Ícone da aba do navegador.
+
+
+DECISÕES JÁ PEDIDAS PELA CLÍNICA (registradas aqui para futuro)
+--------------------------------------------------------------
+- O logo em imagem foi REMOVIDO. A marca no site é só a escrita:
+  "Oral Life" + "Odontologia Especializada" (navbar, menu mobile e rodapé).
+  O arquivo oficial continua guardado no projeto antigo
+  ("Criação de Site\Oral life 01\public\images\logo-oral-life.png").
+- A foto do paciente que estava no topo foi REMOVIDA, no lugar voltou a
+  imagem de consultório. A foto do paciente também continua guardada no
+  projeto antigo (paciente-homem.png), caso queira usá-la outro dia.
+- Instagram oficial: https://www.instagram.com/orallife3/
+
+
+COMO TROCAR UMA FOTO
+--------------------
+
+Mantenha o MESMO NOME DE ARQUIVO. Salve a foto nova na pasta assets\img\
+com o nome da tabela acima, confirme a substituição e recarregue o site
+com Ctrl+F5. Nenhum código precisa ser mexido.
+
+Exemplo: para colocar uma foto real no topo do site, salve a foto como
+         hero-consultorio.jpg
+
+
+DICAS TÉCNICAS
+--------------
+- Formatos aceitos: JPG, PNG, WebP ou AVIF.
+- Peso ideal: até ~350 KB por imagem. Comprima em https://squoosh.app
+- Para o topo (hero), prefira fotos HORIZONTAIS e bem iluminadas.
+- As fotos recebem automaticamente um leve tratamento azul-frio via CSS.
+  Não é preciso editar as cores.
+
+
+FOTOS QUE AINDA FALTAM
+----------------------
+- Equipe (equipe-01.jpg, equipe-02.jpg, equipe-03.jpg): retratos 4:5 de
+  cada profissional. Enquanto não chegarem, a seção Equipe mostra cartões
+  com espaço reservado.
+- Foto real e horizontal do consultório para o topo do site.
+
+
+DIREITO DE IMAGEM (exigência do CFO)
+------------------------------------
+Para qualquer foto em que apareça um PACIENTE identificável (como
+sorriso-paciente e cta-paciente), é necessário ter a autorização de uso
+de imagem assinada. Guarde esse documento.

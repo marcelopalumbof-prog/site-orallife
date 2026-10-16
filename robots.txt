@@ -1,0 +1,9 @@
+# robots.txt — Clínica Oral Life
+# Permite a indexação completa do site por buscadores.
+
+User-agent: *
+Allow: /
+
+# Quando o domínio real estiver definido, descomente a linha abaixo
+# trocando o endereço pelo domínio final:
+# Sitemap: https://www.clinicaorallife.com.br/sitemap.xml
